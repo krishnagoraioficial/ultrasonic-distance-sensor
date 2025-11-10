@@ -16,6 +16,9 @@ This project highlights:
 - Jumper wires and breadboard  
 - Wi-Fi network for connectivity  
 
+## Simulation link (Wokwi)
+https://wokwi.com/projects/447268109407683585
+
 ## Software and Tools
 - PlatformIO (VS Code) for firmware development  
 - Python 3 for server-side communication  
