@@ -1,5 +1,5 @@
 import matplotlib
-matplotlib.use('TkAgg') # <--- Add this line here
+matplotlib.use('TkAgg') 
 import socket
 import threading
 import time
